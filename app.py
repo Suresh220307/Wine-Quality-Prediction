@@ -5,7 +5,7 @@ import joblib
 # -------------------------------
 # Load Trained Model
 # -------------------------------
-model = joblib.load("wine_quality_catboost.pkl")
+model = joblib.load("wine_quality_model.pkl")
 
 # -------------------------------
 # Page Configuration
